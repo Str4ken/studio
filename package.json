@@ -4,6 +4,9 @@
   "license": "MPL-2.0",
   "private": true,
   "packageManager": "yarn@3.6.3",
+  "productName": "Foxglove Studio",
+  "description": "Foxglove Studio is a powerful, open-source, and extensible data visualization and analysis tool.",
+  "productDescription": "Foxglove Studio is a powerful, open-source, and extensible data visualization and analysis tool.",
   "repository": {
     "type": "git",
     "url": "https://github.com/foxglove/studio.git"
