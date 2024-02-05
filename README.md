@@ -24,7 +24,7 @@
   <br />
   <br />
 
-[Foxglove](https://foxglove.dev) is an integrated visualization and diagnosis tool for robotics.
+[Foxglove](https://foxglove.dev) is an integrated visualization and diagnosis tool for robotics..
 
   <p align="center">
     <a href="https://foxglove.dev"><img alt="Foxglove Studio screenshot" src="/resources/screenshot.png"></a>
